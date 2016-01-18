@@ -1,7 +1,7 @@
 {
   "name": "alidayujs",
   "version": "1.0.0",
-  "description": "Alidayu SDK for Node.js 阿里大鱼服务端SDK Node.js版本",
+  "description": "JavaScript Alidayu SDK. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "alidayu",
+    "Alidayu SDK",
     "sms",
     "阿里大鱼"
   ],

@@ -3,18 +3,18 @@
  JavaScript Alidayu SDK. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.
  
  
- # Demo
+# Demo
  
  
- # Usage
+# Usage
  
- ## Client-side
+## Client-side
  
- ## Server-side
+## Server-side
  
- # Requirements
+# Requirements
  
  
- # License
+# License
  
 [MIT license](http://opensource.org/licenses/MIT)
