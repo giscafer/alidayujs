@@ -22,8 +22,7 @@
   },
   "homepage": "https://github.com/giscafer/alidayujs#readme",
   "dependencies": {
-    "crypto": "0.0.3",
-    "crypto-md5": "^1.0.0",
+    "blueimp-md5": "^2.1.0",
     "request": "^2.67.0"
   }
 }
