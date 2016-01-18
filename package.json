@@ -1,0 +1,29 @@
+{
+  "name": "alidayujs",
+  "version": "1.0.0",
+  "description": "Alidayu SDK for Node.js 阿里大鱼服务端SDK Node.js版本",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giscafer/alidayujs.git"
+  },
+  "keywords": [
+    "alidayu",
+    "sms",
+    "阿里大鱼"
+  ],
+  "author": "Nickbing Lao <giscafer@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giscafer/alidayujs/issues"
+  },
+  "homepage": "https://github.com/giscafer/alidayujs#readme",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "crypto-md5": "^1.0.0",
+    "request": "^2.67.0"
+  }
+}
