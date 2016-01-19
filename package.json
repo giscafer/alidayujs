@@ -1,8 +1,8 @@
 {
   "name": "alidayujs",
-  "version": "1.0.0",
-  "description": "JavaScript Alidayu SDK 兼容服务器端环境node.js，模块加载器如RequireJS和所有浏览器",
-  "main": "lib/index.js",
+  "version": "1.0.2",
+  "description": "JavaScript Alidayu（阿里大鱼） SDK 兼容服务器端环境node.js，模块加载器如RequireJS和所有浏览器",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
