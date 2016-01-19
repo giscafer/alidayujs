@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>alidayujs test</title>
+    <script src="http://cdn.bootcss.com/jquery/2.2.0/jquery.js"></script>
+    <script src="http://cdn.bootcss.com/blueimp-md5/2.1.0/js/md5.js"></script>
+    <script src="../lib/alidayu.js"></script>
+</head>
+
+<body>
+    <div>
+        <button onclick="test()">alidayujs test</button>
+    </div>
+</body>
+
+</html>
+<script>
+    function test(){
+        var config = {
+            app_key: '23300111',
+            secret: '3403636b338e1003999dd946111111' 
+        };
+        var app = new AliDaYu(config);
+        var options = {
+            sms_free_sign_name: '身份验证',
+            sms_param: {
+                code: '52031',
+                product: 'alidayujs ajax post test',
+            },
+            rec_num: '15110195197',
+            sms_template_code: 'SMS_4725038',
+        };
+        app.sms(options,function(err,result){
+            if(err){
+               return console.log(err);
+            }
+            console.log(result);
+        });
+    }
+
+</script>

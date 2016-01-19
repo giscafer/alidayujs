@@ -1,6 +1,6 @@
 {
   "name": "alidayujs",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "JavaScript Alidayu（阿里大鱼） SDK 兼容服务器端环境node.js，模块加载器如RequireJS和所有浏览器",
   "main": "index.js",
   "scripts": {

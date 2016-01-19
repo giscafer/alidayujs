@@ -66,8 +66,8 @@ JavaScript Alidayu SDK 兼容服务器端环境node.js，模块加载器如Requi
     var Alidayu=require('./lib/alidayu');
     //应用密匙 见：http://www.alidayu.com/help?spm=a3142.7802526.1.24.iEB4Yc&_t=1#create
     var config = {
-        app_key: '23300270',
-        secret: '3403636b338e1003999dd946750ad69b'
+        app_key: '23300111',
+        secret: '3403636b338e1003999dd946111111' 
     };
     var alidayu = new Alidayu(config);
     //参数 见：http://open.taobao.com/doc2/apiDetail.htm?apiId=25450
