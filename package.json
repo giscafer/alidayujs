@@ -1,7 +1,7 @@
 {
   "name": "alidayujs",
   "version": "1.0.0",
-  "description": "JavaScript Alidayu SDK. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.",
+  "description": "JavaScript Alidayu SDK 兼容服务器端环境node.js，模块加载器如RequireJS和所有浏览器",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
