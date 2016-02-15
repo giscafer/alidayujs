@@ -5,6 +5,7 @@ JavaScript Alidayu SDK 兼容服务器端环境node.js，模块加载器如Requi
  
 ## Demo
  
+ [alidayujs-demo](https://github.com/giscafer/alidayujs-demo)
  
 ## Usage
  
