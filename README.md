@@ -97,4 +97,4 @@ JavaScript Alidayu SDK 兼容服务器端环境node.js，模块加载器如Requi
  
 ## License
  
-[MIT license](http://opensource.org/licenses/MIT)
+MIT ©[giscafer](https://github.com/giscafer)
