@@ -1,6 +1,8 @@
 # alidayujs
 
-[![npm](https://nodei.co/npm/alidayujs.png?downloadRank=true)](https://www.npmjs.com/package/alidayujs)
+[![NPM version](https://img.shields.io/npm/v/alidayujs.svg?style=flat-square)](https://www.npmjs.com/package/alidayujs)
+[![NPM download](https://img.shields.io/npm/dt/alidayujs.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/alidayujs)
+[![NPM license](https://img.shields.io/npm/l/alidayujs.svg?style=flat-square)](https://www.npmjs.com/package/alidayujs)
 
 JavaScript Alidayu SDK 兼容服务器端环境node.js，模块加载器如RequireJS和所有浏览器
  
